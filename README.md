@@ -3,11 +3,11 @@
 
 # 👋 Hi, I'm Mohamed Fazil S
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;Front+end+Developer;Python+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 
 ---
 
-## 🚀 AI Engineer | Full Stack Developer | Data Analyst
+## 🚀 AI Engineer | Front end Developer | Data Analyst
 
 💡 Passionate about solving real-world problems using Artificial Intelligence and Web Development.
 
